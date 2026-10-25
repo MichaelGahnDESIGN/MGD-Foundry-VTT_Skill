@@ -1,0 +1,10 @@
+.DS_Store
+*.leveldb
+worlds/
+Data/
+backups/
+private/
+.env
+*.key
+*.token
+*.log
