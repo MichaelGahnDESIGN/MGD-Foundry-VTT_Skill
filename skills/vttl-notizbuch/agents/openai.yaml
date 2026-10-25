@@ -1,0 +1,4 @@
+interface:
+  display_name: "VTTL Notizbuch"
+  short_description: "Foundry-VTT-Notizbücher für D&D strukturieren"
+  default_prompt: "Nutze /vttl-Notizbuch für eine sichere, übersichtliche Foundry-D&D-Szene."
